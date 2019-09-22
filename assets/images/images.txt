@@ -1,0 +1,2 @@
+I have to make this dumb file so bash will push my images folder to github
+i hate github
